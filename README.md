@@ -81,7 +81,7 @@ KPMG is one of the major players in RegTech domain. It’s deep and robust exper
 
 * What has been the business impact of this company so far?
 
-In the segment with very targeted service offering, bronID has been playing s
+Data available about bronID shows that it has serviced their customers very well on AML/CTF and KYC requirements and have earned very positive feedback. That suggests they been able to make some impact in the RegTech domain. Having said there is an opportunity for bronID to expand on their Compliance and Regulatory service offerings using advance AI and machine learning technologies and big data.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? 
 
@@ -97,7 +97,11 @@ Key success indicators used by companies in this domain to measure their progres
 
 * How is your company performing relative to competitors in the same domain?
 
-
+Statistics available show that bronID has been lagging behind other firms (e.g. Persona, Clari AML, TruNarrative etc. - that operate in the same segment). Primary reasons are:<br/>
+1.	Targeted service offering to limited sectors, in the compliance and regulatory domain.<br/>
+2.	 Portability missing in their service offering due to service accessible via limited platforms like mobile OS etc.<br/>
+3.	Customer support available doesn’t cover popular options like in person training, 24/7 live rep (e.g. robo advisors).<br/>
+4.	Doesn’t help firms meet all regulatory laws and standards. Example - Sarbanes-Oxley Compliance.<br/>
 
 ## Recommendations: 
 
